@@ -25,13 +25,14 @@
       "edu_time": ["2012.09.01", "2014.06.30"],
       "school": "中山大学",
       "major": "材料工程",
-      "academic_degree": "本科",
+      "academic_degree": "硕士",
       "dataIndex": 0
     },
     {
       "edu_time": ["2006.09.01", "2010.06.30"],
       "school": "青岛科技大学",
-      "major": "包装工程"
+      "major": "包装工程",
+      "academic_degree": "本科"
     }
   ],
   "awardList": [
@@ -58,14 +59,14 @@
     },
     {
       "company_name": "拉扎斯科技有限公司",
-      "department_name": "片区经理",
+      "department_name": "新零售 & 大客户事业部",
       "work_time": ["2015.06", "2018.06"],
       "work_desc": "片区经理。\n1. 参与饿了么深圳地区自主餐饮业务的门店拓展， 建设开发；\n2. 负责饿了么深圳片区餐饮业务的日常运营规范管理；\n3.参与饿了么上海区域大客户渠道拓展；",
       "dataIndex": 1
     },
     {
       "company_name": "华润集团",
-      "department_name": "大米事业部",
+      "department_name": "粮油事业部",
       "work_time": ["2014.06", "2015.06"],
       "work_desc": "管理培训生。\n1. 销售部，财务部，市场部轮岗；\n2.华南区域生鲜渠道拓展和维护：独立负责罗森、世纪联华渠道的拓展和维护",
       "dataIndex": 2
