@@ -132,6 +132,11 @@
       "awardList": [
         {
           "award_time": "2023.06",
+          "award_info": "腾讯云开发者认证-分布式数据库 TDSQL(MYSQL版)",
+          "dataIndex": 3
+        },
+        {
+          "award_time": "2023.06",
           "award_info": "腾讯云开发者认证-TDSQL-C MySQL 数据开发者",
           "dataIndex": 3
         },
