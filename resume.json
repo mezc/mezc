@@ -130,6 +130,7 @@
         }
       ],
       "awardList": [
+        { "award_info": "", "award_time": "2009", "dataIndex": 0 }
         { "award_info": "英语 CET6", "award_time": "2009", "dataIndex": 0 },
         {
           "award_info": "证券从业资格",
@@ -167,7 +168,7 @@
           "project_name": "医疗语料统筹",
           "project_role": "数据处理组负责人",
           "project_time": "2019.04 - 2020.06",
-          "project_desc": "1. 为 腾讯医疗健康事业部自然理解项目组 持续输入量级中英医疗模型训练语料。例如：国内医疗网站 -- 丁香、 好医生、 中国知网； 小程序/APP -- 腾讯健康、药监局、搜狗百科；国外web -- pubmed、huggingface；\n2. 清洗各种复杂数据结构，例如：doc，pdf；\n3. 数据建设入库；",
+          "project_desc": "1. 为 腾讯医疗健康事业部自然理解项目组 持续输入量级中英医疗模型训练语料。例如：国内医疗网站 -- 丁香、 好医生、 中国知网； 小程序/APP -- 腾讯健康、药监局、搜狗百科；国外web -- pubmed、huggingface；\n2. 熟练运用正则、Pandas 、MySql 清洗各种复杂数据结构，例如：doc，pdf；\n3. MySql数据建设和入库，查询处理；",
           "project_content": "1. 独立负责产品从 0 到 1 的开发、产品功能迭代（在项目中具有推动项目进度的经验） 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率\n1. ",
           "dataIndex": 0
         },
