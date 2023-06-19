@@ -39,20 +39,25 @@
     {
       "award_time": "2023.06",
       "award_info": "腾讯云开发者认证 - 分布式数据库 TDSQL (MYSQL版)",
-      "dataIndex": 5
+      "dataIndex": 0
     },
     {
       "award_time": "2023.06",
       "award_info": "腾讯云开发者认证 - TDSQL-C MySQL 数据开发者",
-      "dataIndex": 3
+      "dataIndex": 1
     },
     {
       "award_time": "2023.06",
-      "award_info": "腾讯云开发者认证 - 云服务器 CVM 开发者"
+      "award_info": "腾讯云开发者认证 - 云服务器 CVM 开发者",
+      "dataIndex": 2
     },
-    { "award_info": "英语 CET6", "award_time": "2009", "dataIndex": 0 },
-    { "award_info": "证券从业资格", "award_time": "2016.09", "dataIndex": 1 },
-    { "award_time": "2017.08", "award_info": "基金从业资格", "dataIndex": 4 }
+    { "award_info": "英语 CET6", 
+    "award_time": "2009", "dataIndex": 3 },
+    { "award_info": "证券从业资格",
+     "award_time": "2016.09", "dataIndex": 4 },
+    { "award_time": "2017.08", 
+    "award_info": "基金从业资格", 
+    "dataIndex": 5 }
   ],
   "workExpList": [
     {
