@@ -46,11 +46,6 @@
       "award_info": "腾讯云开发者认证 - TDSQL-C MySQL 数据开发者",
       "dataIndex": 1
     },
-    {
-      "award_time": "2023.06",
-      "award_info": "腾讯云开发者认证 - 云服务器 CVM 开发者",
-      "dataIndex": 2
-    },
     { "award_info": "英语 CET6", "award_time": "2009", "dataIndex": 3 },
     { "award_info": "证券从业资格", "award_time": "2016.09", "dataIndex": 4 },
     { "award_time": "2017.08", "award_info": "基金从业资格", "dataIndex": 5 }
@@ -78,14 +73,40 @@
       "dataIndex": 2
     }
   ],
-  "skillList": [],
+  "skillList": [
+    { 
+      "skill_name": "Python", 
+    "skill_level": 95, 
+    "skill_desc": "1. 多年爬虫开发经验；2.Python后端开发；3.良好的数据处理技能，包括数据清洗、处理和存储；" 
+  },
+  { 
+      "skill_name": "MySQL", 
+    "skill_level": 95, 
+    "skill_desc": "熟悉常见的数据库系统，例如MySQL、MongoDB等，并能够使用SQL进行查询和操作；" 
+  },
+  { 
+      "skill_name": "Flask", 
+    "skill_level": 90, 
+    "skill_desc": "腾讯医疗健康自然语言理解组算法，web前后端分离经验" 
+  },
+  { 
+      "skill_name": "Vue.js", 
+    "skill_level": 85, 
+    "skill_desc": "深圳疾控可视化项目， 前后端分离；" 
+  },
+  { 
+      "skill_name": "Docker", 
+    "skill_level": 85, 
+    "skill_desc": "深圳疾控可视化项目， 使用Docker等容器技术进行前后端分离部署和维护；" 
+  }
+  ],
   "projectList": [
     {
       "project_name": "医疗语料",
       "project_role": "核心开发者",
-      "project_time": "2019.04 - 2020.06",
-      "project_desc": "1. 为 腾讯医疗健康事业部自然理解项目组 持续输入量级中英医疗模型训练语料。例如：国内医疗网站 -- 丁香、 好医生、 中国知网； 小程序/APP -- 腾讯健康、药监局、搜狗百科；国外web -- pubmed、huggingface；\n2. 清洗各种复杂数据结构，例如：doc，pdf；\n3. 数据建设入库；",
-      "project_content": "1. 独立负责产品从 0 到 1 的开发、产品功能迭代（在项目中具有推动项目进度的经验） 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率\n1. ",
+      "project_time": "2019.04 - 至今",
+      "project_desc": "1.独立负责腾讯医疗事业部自然理解项目的医疗语料爬取工作， 为项目组持续输入量级中英医疗模型训练语料。例如：国内医疗网站 -- 丁香、 好医生、 中国知网； 小程序/APP -- 腾讯健康、药监局、medChatGPT；国外web -- pubmed、huggingface；\n2. 清洗各种复杂数据结构，例如：web，doc，pdf；\n3. 数据建设入库；",
+      "project_content": "1. 多年爬虫开发经验，熟练运用常见爬虫框架，如：Scrapy、BeautifulSoup、Selenium等，并能够根据项目需求进行二次开发和定制; \n2. 熟悉反爬虫策略和机制，在项目中有成功的破解经验，例如：（1）丁香园web: 涉及到模拟登陆、验证码识别、使用代理破解IP频率限；(2)药监局web: JS逆向破解，常见加密手段：Md5加密， AES加密，DES加密， 请求头加密；破解手法：搜索加密关键字、搜索decrypt,打断点、使用第三方包cryptojs,进行加密算法的重写，结合 python 的 execjs 包，读取重写的 js 代码，最终获取解密参数；\n3.数据处理技能，包括数据清洗、处理和存储等，并能够实现部分复杂数据挖掘算法，例如：使用Python中的NLTK、SpaCy等自然语言处理库，对采集到的文本数据进行分词、词性标注、命名实体识别、情感分析等",
       "dataIndex": 0
     },
     {
@@ -105,7 +126,7 @@
   ],
   "workList": [],
   "aboutme": {
-    "aboutme_desc": "🌱 多年大型项目经历，专注在可视分析领域\n1. 项目管理: 具有独立跟进和推动项目进度经验，把控研发测试交付进展。2.可视化经验: 通用组件设计和开发经验丰富，也能完成定制可视化诉求\n其它: 1. 前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot” 2. 蚂蚁集团前端练习生 可视化讲师 3. D2论坛小游戏: https://antv.gitee.io/zh/d2, https://antv-studio.antfin.com/bless-heatmap"
+    "aboutme_desc": "🌱 自驱型后端工程师，多年大型项目经历，具有丰富医药产品开发经验。\n1.具备高并发数据采集和处理能力。 \n2. 后端开发经验: 深度参与腾讯医疗健康事业部医疗自然语言理解的算法开发，对医疗语料的爬取、复杂的数据结构处理有较为丰富的经验。\n3. 参与腾讯医疗大数据项目组的相关系统和算法可视化前后端的开发和维护,丰富的web开发部署伤上线发布经验。4.项目管理: 具有独立跟进和推动项目进度经验，把控开发交付进展。\n"
   },
   "theme": { "color": "#2f5785", "tagColor": "#8bc34a" }
 }
