@@ -9,13 +9,13 @@
     "aboutme": "个人评价"
   },
   "avatar": {
-    "src": "https://github.com/mezc/mezc/blob/master/zc201802.jpg?raw=true",
+    "src": "",
     "hidden": false
   },
   "profile": {
-    "name": "张淳",
-    "email": "me.zc@live.cn",
-    "mobile": "13641431468",
+    "name": "xxx",
+    "email": "xxx",
+    "mobile": "xxx",
     "github": "",
     "zhihu": "",
     "workExpYear": "8年"
